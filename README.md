@@ -8,6 +8,6 @@ you can calculate the weight of each sub-index within the overall portfolio. You
 sub-indices and hedging currencies 1 month forward and spot rates and the unhedged performance of the 
 overall portfolio.
 
-Once you've go all this info you basically do the following
+Once you've go all this info you basically (and simplistically)  do the following
 
 hedged performance = unhedged performance + SUM(individual sub-indices hedge impacts)
